@@ -14,7 +14,7 @@ o
 			s{"{ 7c71fc2d-2a1a-4938-9305-f3a0f26d73cc }"}
 		}
 		Uuid %DocumentID{u4{13301343667075388324,5365706136527769273}}
-		u4 %Hash{4269122141031273438}
+		u4 %Hash{5286635883595172792}
 		VarArray %MetaInfo{}
 		VarArray %Outputs{}
 		VarArray %PackageDeps
@@ -48,7 +48,7 @@ o
 		Color %BaseColor{f{0x0000803F,0x0000803F,0x0000803F,0x0000803F}}
 		s %BaseTexture{"{ b2ea0b17-750c-48b5-929d-5ae8fc1fb6c4 }"}
 		s %DitherNoiseTexture{"{ ac614d7c-2b31-4a7b-aa0c-c5d8200b7b89 }"}
-		Color %EmissiveColor{f{0x0000003F,0x0000003F,0x0000003F,0x0000803F}}
+		Color %EmissiveColor{f{0x3B696041,0x3B696041,0x3B696041,0x0000803F}}
 		s %EmissiveTexture{"{ 2b01844c-85eb-420a-bb36-f8254409c722 }"}
 		f %MaskThreshold{0x0000803E}
 		s %MetallicTexture{""}
