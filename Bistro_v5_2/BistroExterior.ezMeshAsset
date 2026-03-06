@@ -1,0 +1,2089 @@
+HeaderV2
+{
+o
+{
+	Uuid %id{u4{631097508050318771,4861322206300162070}}
+	s %t{"ezAssetDocumentInfo"}
+	u3 %v{2}
+	s %n{"Header"}
+	p
+	{
+		s %AssetType{"Mesh"}
+		VarArray %Dependencies
+		{
+			s{"Bistro_v5_2/BistroExterior.fbx"}
+		}
+		Uuid %DocumentID{u4{631097508050318771,4861322206300162070}}
+		u4 %Hash{4409774178299019187}
+		VarArray %MetaInfo{}
+		VarArray %Outputs{}
+		VarArray %PackageDeps
+		{
+			s{"{ 007f900b-70f4-4b93-8de8-9bb70d1f7803 }"}
+			s{"{ 00f91ef3-dd8a-484f-84af-1d046e39ef67 }"}
+			s{"{ 027bc06b-2dd4-40b0-adca-c05affb514f7 }"}
+			s{"{ 02dcc12a-5a04-40c0-b50a-947e3b13a6ab }"}
+			s{"{ 02f17abe-238c-4be8-8658-b6e6f4167f79 }"}
+			s{"{ 03c4247b-f32a-4b78-a923-e6928570bac7 }"}
+			s{"{ 049c61d0-0dd6-499e-82cf-615643b3de8a }"}
+			s{"{ 08f23d39-2caf-48a2-85d7-78d0ee253c42 }"}
+			s{"{ 0f981f31-2c94-4701-8500-0854645f93bc }"}
+			s{"{ 1013a56c-374d-427e-91b8-9c050918c5d5 }"}
+			s{"{ 10da37ec-9b7b-45ba-8599-2bbf92be594a }"}
+			s{"{ 10fc2d2a-a156-435d-b084-7c879a6a9c06 }"}
+			s{"{ 113798d1-597c-4288-ad76-b9219412e284 }"}
+			s{"{ 15cf748e-fbb1-4736-b757-003b662bb1ba }"}
+			s{"{ 15f0aae7-885a-4ef9-9a25-44ef9314e85c }"}
+			s{"{ 1a40d502-d2ce-4fe5-9bc2-b5dbefc0a4c2 }"}
+			s{"{ 1e1ccc66-a86f-4076-9fd5-2168ae42ac6a }"}
+			s{"{ 1ffb33a3-e228-4c5b-b762-2353566f1642 }"}
+			s{"{ 203aa9f7-621f-43d2-bbc9-c7acb6d41848 }"}
+			s{"{ 21189c54-774b-492a-8785-26b71ff4b30e }"}
+			s{"{ 26679d39-4a0a-47aa-b0b3-86d6e32dbf60 }"}
+			s{"{ 26875af4-c6a9-4983-92b5-7a713e3469d9 }"}
+			s{"{ 278cca1a-9d52-4e3b-bdd5-0c6642b103f4 }"}
+			s{"{ 278e9989-3819-47c4-88bf-39a51e66146e }"}
+			s{"{ 2ae25639-a4d6-4296-84d7-8eb184e79063 }"}
+			s{"{ 2ea2fc6a-cf24-4fb9-baa1-b9e1c685fe4e }"}
+			s{"{ 2f6a6836-87c1-4159-a284-6f67e89eaf5c }"}
+			s{"{ 2fe95d5a-3387-4956-9ac9-5ad804929c76 }"}
+			s{"{ 30c2557c-3d6a-4947-829a-d0d17b9fd1b3 }"}
+			s{"{ 3421316e-6d7b-4513-8228-0623d5364c54 }"}
+			s{"{ 350a37e7-e611-491a-a3c0-60fc01817577 }"}
+			s{"{ 3a7b3202-6fbc-4185-9340-79370d84dae6 }"}
+			s{"{ 3a9ea4d5-71ec-4f37-9b32-97e401533ecb }"}
+			s{"{ 3affdb7f-a517-4c2c-8010-fdff475c173c }"}
+			s{"{ 3b2041a1-6f8d-4627-aadf-21103022f977 }"}
+			s{"{ 416184fd-7368-46d3-9ad6-4dc14422ecae }"}
+			s{"{ 43132ceb-35d7-4be4-a39e-5a24777699d2 }"}
+			s{"{ 44cefb47-ca68-4673-a7eb-cb27e44faef0 }"}
+			s{"{ 45da7920-b9c7-420f-8d04-7bff8af0a1fb }"}
+			s{"{ 47079fa3-ff48-465d-abf6-d6d94ca1b472 }"}
+			s{"{ 4a457f63-bda3-433b-9cb9-8a9a4b57b78e }"}
+			s{"{ 4bcafa0c-f89e-49b9-981c-e1481107efe9 }"}
+			s{"{ 4ed703ee-0c09-4789-bb6b-07f7059d7ebf }"}
+			s{"{ 5678f54c-5e2e-4dbc-87bd-1e05392e4047 }"}
+			s{"{ 570ecbf5-85e3-4944-ae3a-e454ef4d5b2a }"}
+			s{"{ 5992a480-c642-4ed4-85cf-f0bbbe26b064 }"}
+			s{"{ 5a512bfc-0bdc-40c5-81d7-910baa958afa }"}
+			s{"{ 5b2230c6-01f6-4632-a929-4829c7ba1a55 }"}
+			s{"{ 643e1def-2239-48d3-afe9-bff5f11082bf }"}
+			s{"{ 66c2e036-ec77-48be-b3cd-1aab910715bf }"}
+			s{"{ 6709f883-6bc9-43e5-bf96-f0f84125babb }"}
+			s{"{ 67176e97-455c-4a59-80a4-b215d3e103f1 }"}
+			s{"{ 6916188b-efd5-46bf-a226-a35d063e5a8a }"}
+			s{"{ 69d39c38-3ac0-4241-bf95-6ba8d5f65cf4 }"}
+			s{"{ 6cdf0eb9-d14d-4a76-a493-6b7797dd97b8 }"}
+			s{"{ 6ec90c74-14ad-467a-ac07-2ffae8ab510a }"}
+			s{"{ 6f070b37-a587-4206-ae3e-e1c9fad59afe }"}
+			s{"{ 71157996-91f5-4e48-ae2a-a93e330bd8f5 }"}
+			s{"{ 76481bb0-4b0d-41e6-9e8d-3e72def70f79 }"}
+			s{"{ 76992e55-cf3f-4d20-ad1d-7257d3b4200f }"}
+			s{"{ 76a0ff0d-89da-4899-93e6-ee186378eb24 }"}
+			s{"{ 79346004-dacb-41f7-b104-8d51722379ee }"}
+			s{"{ 7b2d089d-1d6c-4d3a-9bd9-547a232b7332 }"}
+			s{"{ 7e35dd08-1c1c-40f2-9b6e-982b656e8f53 }"}
+			s{"{ 7f58ef72-13dc-4d8b-963c-7d3f9c233d56 }"}
+			s{"{ 80ae05b4-7cf8-4702-af78-7c71799020a9 }"}
+			s{"{ 824d5be3-e854-43d7-a743-177a8d451870 }"}
+			s{"{ 82827972-87e0-4f9f-8a66-95467e1f3892 }"}
+			s{"{ 84cac092-69cc-44bf-901a-255c74ac6059 }"}
+			s{"{ 84fecf7b-542b-4bb0-a086-e9abe71e5478 }"}
+			s{"{ 87e061ba-03e5-4bbe-92b2-49c1b1ce3181 }"}
+			s{"{ 88d8d34e-652d-4e9c-b949-dd065ee0727f }"}
+			s{"{ 89df5b60-57c4-405a-b4d8-7b2dc7cecfb7 }"}
+			s{"{ 8a51dc8a-932b-4d73-9c9d-09df2725fe3a }"}
+			s{"{ 8c8e321e-afad-49b8-b8a7-bc1d23b1a38d }"}
+			s{"{ 8e94f610-0310-46ba-8b0f-4c2430cf9afd }"}
+			s{"{ 8ef61e40-a781-4ed6-ab8e-fa1b97dd7bc2 }"}
+			s{"{ 90368bf6-a944-4881-90e6-546b233f689a }"}
+			s{"{ 92d78f32-3cd7-434e-8a6d-1dcbda832afc }"}
+			s{"{ 932dcb1f-c2c7-4af1-932a-033437e1d0d4 }"}
+			s{"{ 94e8f2b9-ae2f-478e-895d-66aa41eeffd3 }"}
+			s{"{ 962eff66-8057-4613-ab30-325c6b75234f }"}
+			s{"{ 9648701a-a2dd-4b24-b400-230a98aca3a7 }"}
+			s{"{ 97cc2311-a247-45e0-834d-4323dcd11971 }"}
+			s{"{ 985e546c-43a1-4558-acea-71a45f228206 }"}
+			s{"{ 9b78d6f7-7b6a-4b90-9792-87e4d54f21af }"}
+			s{"{ a0322ea5-c2bf-4851-b397-e9b88d650525 }"}
+			s{"{ a1aa11f2-2ffc-47ec-8289-afdb7478142f }"}
+			s{"{ a245d685-9706-45f4-a821-a1f5189391c4 }"}
+			s{"{ a315cbb6-9f57-45aa-b4ac-f88481586fd4 }"}
+			s{"{ a5a3bdf9-ba50-46c3-ba73-9a289d0c9a64 }"}
+			s{"{ a8267215-1c89-4bc0-adae-66f623e4a979 }"}
+			s{"{ a8715186-a4bf-40d4-b6cc-d48a3524eabb }"}
+			s{"{ a9308d8d-07fe-4111-8097-1b48a21d9803 }"}
+			s{"{ ad897b19-7aee-4120-9229-1ae9e184c618 }"}
+			s{"{ ae16f5e2-bf0b-4cb6-a1be-4b7aea9152bb }"}
+			s{"{ b6a8d2e7-1cbc-415a-839e-5241005d64a1 }"}
+			s{"{ b6b59711-b39e-4854-9781-320cb3d36d2f }"}
+			s{"{ b6f4cb54-23d2-4e25-9c75-ee56b1368497 }"}
+			s{"{ b771c935-1872-488d-842b-27fa71f46d47 }"}
+			s{"{ b7f91811-fdae-4371-bc83-4f52aec76d66 }"}
+			s{"{ b856dec9-d912-4e99-bb43-91b95ad6d385 }"}
+			s{"{ b8addbfa-74b6-49ad-9fcb-e5bcac839163 }"}
+			s{"{ ba032006-19fe-4548-a2db-315a1b663a81 }"}
+			s{"{ bb1a61f3-86d9-49d2-af7b-4e531646160b }"}
+			s{"{ bd937de7-38d0-4039-902c-39d3fd8b2b97 }"}
+			s{"{ be48f3dc-5c46-49d1-8562-61c1ecff65b9 }"}
+			s{"{ c860a1e3-d72e-4f49-8c71-e7c1644edc62 }"}
+			s{"{ ccfd0fc9-d0f8-4256-9693-3eb80e3ee3fb }"}
+			s{"{ d04eb524-c990-4ef7-8e8d-3902df2f084b }"}
+			s{"{ d1188206-00c0-47b3-b581-098fa3196dde }"}
+			s{"{ d29aee5d-7d64-4f0f-8b0d-9e450efdb5e3 }"}
+			s{"{ d395e55b-14a6-468f-a637-db2c8b429347 }"}
+			s{"{ d4a7d17e-572a-4be2-a2c4-640dc689448c }"}
+			s{"{ d8628480-425b-4cb3-a2dc-78784d4937c2 }"}
+			s{"{ de3942c9-5b6c-49ff-9827-98d553438103 }"}
+			s{"{ e2213509-e94d-4360-9bf6-f14b3f282ba1 }"}
+			s{"{ e3dbdcd4-8839-4664-8c5d-d70c7c8c7d2e }"}
+			s{"{ e682cf22-28e5-4ff5-8a08-17d3e9acca8a }"}
+			s{"{ ecd7542a-53d3-4b77-ad7f-7894a1e7a99c }"}
+			s{"{ eee6e295-c196-4fef-9da5-7c38894ed39c }"}
+			s{"{ ef4e5b1e-ac99-4295-af1f-5d25df43dcd0 }"}
+			s{"{ f0f98b4c-34af-4c6d-bb01-186997387aba }"}
+			s{"{ f1337bb7-93a9-44a1-a827-8f3c096542aa }"}
+			s{"{ f149e92d-c60f-4e3d-9b9a-2706a71e1dab }"}
+			s{"{ f27b3c42-1911-43ee-9990-6ffaf875084d }"}
+			s{"{ f31f2050-26d2-43f3-b6ac-5310d34e4ced }"}
+			s{"{ f43ac90a-7ba0-4328-a6a2-19914de84ad7 }"}
+			s{"{ f6e4a5d4-970a-467b-a0c1-fd424599844b }"}
+			s{"{ f7f19852-b712-4ea7-923c-160ee572f788 }"}
+			s{"{ f883d188-c1de-47ed-9e4f-a344cf4af562 }"}
+			s{"{ f992990a-6b76-4960-a1c6-833779432146 }"}
+		}
+		VarArray %References
+		{
+			s{"Bistro_v5_2/BistroExterior.fbx"}
+			s{"{ 007f900b-70f4-4b93-8de8-9bb70d1f7803 }"}
+			s{"{ 00f91ef3-dd8a-484f-84af-1d046e39ef67 }"}
+			s{"{ 027bc06b-2dd4-40b0-adca-c05affb514f7 }"}
+			s{"{ 02dcc12a-5a04-40c0-b50a-947e3b13a6ab }"}
+			s{"{ 02f17abe-238c-4be8-8658-b6e6f4167f79 }"}
+			s{"{ 03c4247b-f32a-4b78-a923-e6928570bac7 }"}
+			s{"{ 049c61d0-0dd6-499e-82cf-615643b3de8a }"}
+			s{"{ 08f23d39-2caf-48a2-85d7-78d0ee253c42 }"}
+			s{"{ 0f981f31-2c94-4701-8500-0854645f93bc }"}
+			s{"{ 1013a56c-374d-427e-91b8-9c050918c5d5 }"}
+			s{"{ 10da37ec-9b7b-45ba-8599-2bbf92be594a }"}
+			s{"{ 10fc2d2a-a156-435d-b084-7c879a6a9c06 }"}
+			s{"{ 113798d1-597c-4288-ad76-b9219412e284 }"}
+			s{"{ 15cf748e-fbb1-4736-b757-003b662bb1ba }"}
+			s{"{ 15f0aae7-885a-4ef9-9a25-44ef9314e85c }"}
+			s{"{ 1a40d502-d2ce-4fe5-9bc2-b5dbefc0a4c2 }"}
+			s{"{ 1e1ccc66-a86f-4076-9fd5-2168ae42ac6a }"}
+			s{"{ 1ffb33a3-e228-4c5b-b762-2353566f1642 }"}
+			s{"{ 203aa9f7-621f-43d2-bbc9-c7acb6d41848 }"}
+			s{"{ 21189c54-774b-492a-8785-26b71ff4b30e }"}
+			s{"{ 26679d39-4a0a-47aa-b0b3-86d6e32dbf60 }"}
+			s{"{ 26875af4-c6a9-4983-92b5-7a713e3469d9 }"}
+			s{"{ 278cca1a-9d52-4e3b-bdd5-0c6642b103f4 }"}
+			s{"{ 278e9989-3819-47c4-88bf-39a51e66146e }"}
+			s{"{ 2ae25639-a4d6-4296-84d7-8eb184e79063 }"}
+			s{"{ 2ea2fc6a-cf24-4fb9-baa1-b9e1c685fe4e }"}
+			s{"{ 2f6a6836-87c1-4159-a284-6f67e89eaf5c }"}
+			s{"{ 2fe95d5a-3387-4956-9ac9-5ad804929c76 }"}
+			s{"{ 30c2557c-3d6a-4947-829a-d0d17b9fd1b3 }"}
+			s{"{ 3421316e-6d7b-4513-8228-0623d5364c54 }"}
+			s{"{ 350a37e7-e611-491a-a3c0-60fc01817577 }"}
+			s{"{ 3a7b3202-6fbc-4185-9340-79370d84dae6 }"}
+			s{"{ 3a9ea4d5-71ec-4f37-9b32-97e401533ecb }"}
+			s{"{ 3affdb7f-a517-4c2c-8010-fdff475c173c }"}
+			s{"{ 3b2041a1-6f8d-4627-aadf-21103022f977 }"}
+			s{"{ 416184fd-7368-46d3-9ad6-4dc14422ecae }"}
+			s{"{ 43132ceb-35d7-4be4-a39e-5a24777699d2 }"}
+			s{"{ 44cefb47-ca68-4673-a7eb-cb27e44faef0 }"}
+			s{"{ 45da7920-b9c7-420f-8d04-7bff8af0a1fb }"}
+			s{"{ 47079fa3-ff48-465d-abf6-d6d94ca1b472 }"}
+			s{"{ 4a457f63-bda3-433b-9cb9-8a9a4b57b78e }"}
+			s{"{ 4bcafa0c-f89e-49b9-981c-e1481107efe9 }"}
+			s{"{ 4ed703ee-0c09-4789-bb6b-07f7059d7ebf }"}
+			s{"{ 5678f54c-5e2e-4dbc-87bd-1e05392e4047 }"}
+			s{"{ 570ecbf5-85e3-4944-ae3a-e454ef4d5b2a }"}
+			s{"{ 5992a480-c642-4ed4-85cf-f0bbbe26b064 }"}
+			s{"{ 5a512bfc-0bdc-40c5-81d7-910baa958afa }"}
+			s{"{ 5b2230c6-01f6-4632-a929-4829c7ba1a55 }"}
+			s{"{ 643e1def-2239-48d3-afe9-bff5f11082bf }"}
+			s{"{ 66c2e036-ec77-48be-b3cd-1aab910715bf }"}
+			s{"{ 6709f883-6bc9-43e5-bf96-f0f84125babb }"}
+			s{"{ 67176e97-455c-4a59-80a4-b215d3e103f1 }"}
+			s{"{ 6916188b-efd5-46bf-a226-a35d063e5a8a }"}
+			s{"{ 69d39c38-3ac0-4241-bf95-6ba8d5f65cf4 }"}
+			s{"{ 6cdf0eb9-d14d-4a76-a493-6b7797dd97b8 }"}
+			s{"{ 6ec90c74-14ad-467a-ac07-2ffae8ab510a }"}
+			s{"{ 6f070b37-a587-4206-ae3e-e1c9fad59afe }"}
+			s{"{ 71157996-91f5-4e48-ae2a-a93e330bd8f5 }"}
+			s{"{ 76481bb0-4b0d-41e6-9e8d-3e72def70f79 }"}
+			s{"{ 76992e55-cf3f-4d20-ad1d-7257d3b4200f }"}
+			s{"{ 76a0ff0d-89da-4899-93e6-ee186378eb24 }"}
+			s{"{ 79346004-dacb-41f7-b104-8d51722379ee }"}
+			s{"{ 7b2d089d-1d6c-4d3a-9bd9-547a232b7332 }"}
+			s{"{ 7e35dd08-1c1c-40f2-9b6e-982b656e8f53 }"}
+			s{"{ 7f58ef72-13dc-4d8b-963c-7d3f9c233d56 }"}
+			s{"{ 80ae05b4-7cf8-4702-af78-7c71799020a9 }"}
+			s{"{ 824d5be3-e854-43d7-a743-177a8d451870 }"}
+			s{"{ 82827972-87e0-4f9f-8a66-95467e1f3892 }"}
+			s{"{ 84cac092-69cc-44bf-901a-255c74ac6059 }"}
+			s{"{ 84fecf7b-542b-4bb0-a086-e9abe71e5478 }"}
+			s{"{ 87e061ba-03e5-4bbe-92b2-49c1b1ce3181 }"}
+			s{"{ 88d8d34e-652d-4e9c-b949-dd065ee0727f }"}
+			s{"{ 89df5b60-57c4-405a-b4d8-7b2dc7cecfb7 }"}
+			s{"{ 8a51dc8a-932b-4d73-9c9d-09df2725fe3a }"}
+			s{"{ 8c8e321e-afad-49b8-b8a7-bc1d23b1a38d }"}
+			s{"{ 8e94f610-0310-46ba-8b0f-4c2430cf9afd }"}
+			s{"{ 8ef61e40-a781-4ed6-ab8e-fa1b97dd7bc2 }"}
+			s{"{ 90368bf6-a944-4881-90e6-546b233f689a }"}
+			s{"{ 92d78f32-3cd7-434e-8a6d-1dcbda832afc }"}
+			s{"{ 932dcb1f-c2c7-4af1-932a-033437e1d0d4 }"}
+			s{"{ 94e8f2b9-ae2f-478e-895d-66aa41eeffd3 }"}
+			s{"{ 962eff66-8057-4613-ab30-325c6b75234f }"}
+			s{"{ 9648701a-a2dd-4b24-b400-230a98aca3a7 }"}
+			s{"{ 97cc2311-a247-45e0-834d-4323dcd11971 }"}
+			s{"{ 985e546c-43a1-4558-acea-71a45f228206 }"}
+			s{"{ 9b78d6f7-7b6a-4b90-9792-87e4d54f21af }"}
+			s{"{ a0322ea5-c2bf-4851-b397-e9b88d650525 }"}
+			s{"{ a1aa11f2-2ffc-47ec-8289-afdb7478142f }"}
+			s{"{ a245d685-9706-45f4-a821-a1f5189391c4 }"}
+			s{"{ a315cbb6-9f57-45aa-b4ac-f88481586fd4 }"}
+			s{"{ a5a3bdf9-ba50-46c3-ba73-9a289d0c9a64 }"}
+			s{"{ a8267215-1c89-4bc0-adae-66f623e4a979 }"}
+			s{"{ a8715186-a4bf-40d4-b6cc-d48a3524eabb }"}
+			s{"{ a9308d8d-07fe-4111-8097-1b48a21d9803 }"}
+			s{"{ ad897b19-7aee-4120-9229-1ae9e184c618 }"}
+			s{"{ ae16f5e2-bf0b-4cb6-a1be-4b7aea9152bb }"}
+			s{"{ b6a8d2e7-1cbc-415a-839e-5241005d64a1 }"}
+			s{"{ b6b59711-b39e-4854-9781-320cb3d36d2f }"}
+			s{"{ b6f4cb54-23d2-4e25-9c75-ee56b1368497 }"}
+			s{"{ b771c935-1872-488d-842b-27fa71f46d47 }"}
+			s{"{ b7f91811-fdae-4371-bc83-4f52aec76d66 }"}
+			s{"{ b856dec9-d912-4e99-bb43-91b95ad6d385 }"}
+			s{"{ b8addbfa-74b6-49ad-9fcb-e5bcac839163 }"}
+			s{"{ ba032006-19fe-4548-a2db-315a1b663a81 }"}
+			s{"{ bb1a61f3-86d9-49d2-af7b-4e531646160b }"}
+			s{"{ bd937de7-38d0-4039-902c-39d3fd8b2b97 }"}
+			s{"{ be48f3dc-5c46-49d1-8562-61c1ecff65b9 }"}
+			s{"{ c860a1e3-d72e-4f49-8c71-e7c1644edc62 }"}
+			s{"{ ccfd0fc9-d0f8-4256-9693-3eb80e3ee3fb }"}
+			s{"{ d04eb524-c990-4ef7-8e8d-3902df2f084b }"}
+			s{"{ d1188206-00c0-47b3-b581-098fa3196dde }"}
+			s{"{ d29aee5d-7d64-4f0f-8b0d-9e450efdb5e3 }"}
+			s{"{ d395e55b-14a6-468f-a637-db2c8b429347 }"}
+			s{"{ d4a7d17e-572a-4be2-a2c4-640dc689448c }"}
+			s{"{ d8628480-425b-4cb3-a2dc-78784d4937c2 }"}
+			s{"{ de3942c9-5b6c-49ff-9827-98d553438103 }"}
+			s{"{ e2213509-e94d-4360-9bf6-f14b3f282ba1 }"}
+			s{"{ e3dbdcd4-8839-4664-8c5d-d70c7c8c7d2e }"}
+			s{"{ e682cf22-28e5-4ff5-8a08-17d3e9acca8a }"}
+			s{"{ ecd7542a-53d3-4b77-ad7f-7894a1e7a99c }"}
+			s{"{ eee6e295-c196-4fef-9da5-7c38894ed39c }"}
+			s{"{ ef4e5b1e-ac99-4295-af1f-5d25df43dcd0 }"}
+			s{"{ f0f98b4c-34af-4c6d-bb01-186997387aba }"}
+			s{"{ f1337bb7-93a9-44a1-a827-8f3c096542aa }"}
+			s{"{ f149e92d-c60f-4e3d-9b9a-2706a71e1dab }"}
+			s{"{ f27b3c42-1911-43ee-9990-6ffaf875084d }"}
+			s{"{ f31f2050-26d2-43f3-b6ac-5310d34e4ced }"}
+			s{"{ f43ac90a-7ba0-4328-a6a2-19914de84ad7 }"}
+			s{"{ f6e4a5d4-970a-467b-a0c1-fd424599844b }"}
+			s{"{ f7f19852-b712-4ea7-923c-160ee572f788 }"}
+			s{"{ f883d188-c1de-47ed-9e4f-a344cf4af562 }"}
+			s{"{ f992990a-6b76-4960-a1c6-833779432146 }"}
+		}
+		s %Tags{""}
+	}
+}
+}
+Objects
+{
+o
+{
+	Uuid %id{u4{2172527230804747435,4611825343455123192}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Balcony_Concrete"}
+		s %Resource{"{ 10fc2d2a-a156-435d-b084-7c879a6a9c06 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4928472523446618800,4612988971088618637}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Boulangerie"}
+		s %Resource{"{ 5992a480-c642-4ed4-85cf-f0bbbe26b064 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{17277237880603333029,4620161590214730657}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Cobblestone_Wet_BLENDSHADER"}
+		s %Resource{"{ 26875af4-c6a9-4983-92b5-7a713e3469d9 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2776835168644844720,4620247713580852376}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Shopsign_Ties_Shop"}
+		s %Resource{"{ 985e546c-43a1-4558-acea-71a45f228206 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11769430660505615505,4640507827551473434}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Balcony_Trims"}
+		s %Resource{"{ 932dcb1f-c2c7-4af1-932a-033437e1d0d4 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2494910844302989233,4642849260955556709}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Awnings_Hotel_Fabric"}
+		s %Resource{"{ be48f3dc-5c46-49d1-8562-61c1ecff65b9 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{8491868369294714505,4646486862586200534}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Emissive_StreetLight"}
+		s %Resource{"{ a315cbb6-9f57-45aa-b4ac-f88481586fd4 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4981934819970818744,4652208855653657012}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Brick_Large_Beige_BLENDSHADER"}
+		s %Resource{"{ 962eff66-8057-4613-ab30-325c6b75234f }"}
+	}
+}
+o
+{
+	Uuid %id{u4{3478065596815612291,4664295855035170450}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Streetlight_Metal"}
+		s %Resource{"{ 10da37ec-9b7b-45ba-8599-2bbf92be594a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{12389655299717011099,4667461077376915935}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Bistro_Sign_Main"}
+		s %Resource{"{ 643e1def-2239-48d3-afe9-bff5f11082bf }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16482626476979418003,4676426932370755681}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Awning_Fabric_Red"}
+		s %Resource{"{ 15f0aae7-885a-4ef9-9a25-44ef9314e85c }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11283496275175478417,4693706704947710887}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Vespa_Odometer_Glass"}
+		s %Resource{"{ 7f58ef72-13dc-4d8b-963c-7d3f9c233d56 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{9338898030924074651,4695444460443667243}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Roofing_Shingle_Grey"}
+		s %Resource{"{ 89df5b60-57c4-405a-b4d8-7b2dc7cecfb7 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{6772973421720766124,4698761330481724924}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete"}
+		s %Resource{"{ b8addbfa-74b6-49ad-9fcb-e5bcac839163 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{1330854582951604129,4705210786322275567}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Spotlight_Emissive"}
+		s %Resource{"{ d4a7d17e-572a-4be2-a2c4-640dc689448c }"}
+	}
+}
+o
+{
+	Uuid %id{u4{17754026642208103341,4705869980099050053}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Book_Covers"}
+		s %Resource{"{ e682cf22-28e5-4ff5-8a08-17d3e9acca8a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{8131470501161367997,4707596029558557402}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StreetSign_01"}
+		s %Resource{"{ 570ecbf5-85e3-4944-ae3a-e454ef4d5b2a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{345526017047222195,4709101891222671237}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Awnings_Beams"}
+		s %Resource{"{ 8a51dc8a-932b-4d73-9c9d-09df2725fe3a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{1442358885748882592,4714020637656255661}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StringLights_01_Red_Color_Emissive"}
+		s %Resource{"{ 6cdf0eb9-d14d-4a76-a493-6b7797dd97b8 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2258317333425844129,4729043706478053883}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_Chair_01"}
+		s %Resource{"{ 6709f883-6bc9-43e5-bf96-f0f84125babb }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16121550549982608797,4729270424411822894}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MenuSign_01"}
+		s %Resource{"{ 76481bb0-4b0d-41e6-9e8d-3e72def70f79 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{13910425541660757174,4744767222612751454}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Focus_Ornament"}
+		s %Resource{"{ 80ae05b4-7cf8-4702-af78-7c71799020a9 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{10439125600990968711,4748543400474519742}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Metal"}
+		s %Resource{"{ 6ec90c74-14ad-467a-ac07-2ffae8ab510a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16865827265467138697,4750546379792888249}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete_Grooved"}
+		s %Resource{"{ a8715186-a4bf-40d4-b6cc-d48a3524eabb }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16228147302053342618,4760409860046152772}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Ground_Wet"}
+		s %Resource{"{ 02f17abe-238c-4be8-8658-b6e6f4167f79 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{14522239725358208421,4780704885127177563}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Vespa"}
+		s %Resource{"{ 87e061ba-03e5-4bbe-92b2-49c1b1ce3181 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{13032867720014243238,4804636085257822636}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Building_Details"}
+		s %Resource{"{ f7f19852-b712-4ea7-923c-160ee572f788 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2586465410128879007,4821777710260283610}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Rollup_Door"}
+		s %Resource{"{ b6b59711-b39e-4854-9781-320cb3d36d2f }"}
+	}
+}
+o
+{
+	Uuid %id{u4{8894127852033123478,4838124501919634450}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Plastic"}
+		s %Resource{"{ 416184fd-7368-46d3-9ad6-4dc14422ecae }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5016297505583338631,4851855646312546673}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Curtains"}
+		s %Resource{"{ 027bc06b-2dd4-40b0-adca-c05affb514f7 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{15442517384938198434,4852314292957532511}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Sidewalkbarrier"}
+		s %Resource{"{ 1a40d502-d2ce-4fe5-9bc2-b5dbefc0a4c2 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4519499538472078484,4880338482682200825}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Glass_Dirty"}
+		s %Resource{"{ d1188206-00c0-47b3-b581-098fa3196dde }"}
+	}
+}
+o
+{
+	Uuid %id{u4{15978098133459966882,4882050406222821503}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Spotlight_Glass_Emissive"}
+		s %Resource{"{ b6f4cb54-23d2-4e25-9c75-ee56b1368497 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{15107846949828665511,4886647461619368133}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_LiquorBottle_01_Glass_Wine"}
+		s %Resource{"{ 8ef61e40-a781-4ed6-ab8e-fa1b97dd7bc2 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{9614079978122148270,4902127482865981271}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Frosted_Glass"}
+		s %Resource{"{ 79346004-dacb-41f7-b104-8d51722379ee }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2837494134671399094,4907644476204631694}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Awning_Fabric_Cyan"}
+		s %Resource{"{ 02dcc12a-5a04-40c0-b50a-947e3b13a6ab }"}
+	}
+}
+o
+{
+	Uuid %id{u4{9576642528615984795,4914714583410540179}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Trashcan"}
+		s %Resource{"{ ecd7542a-53d3-4b77-ad7f-7894a1e7a99c }"}
+	}
+}
+o
+{
+	Uuid %id{u4{18159205851142000264,4938494474971635271}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Bux_Hedges46.DoubleSided"}
+		s %Resource{"{ 76a0ff0d-89da-4899-93e6-ee186378eb24 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{17883403138969053609,4941209804309384866}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Shopsign_Pharmacy_Emissive"}
+		s %Resource{"{ 049c61d0-0dd6-499e-82cf-615643b3de8a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{12729226878645529234,4948428206500260138}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Awning_Beams"}
+		s %Resource{"{ 007f900b-70f4-4b93-8de8-9bb70d1f7803 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{6457480192106476931,4958223681544123814}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Awnings_Fabric"}
+		s %Resource{"{ b7f91811-fdae-4371-bc83-4f52aec76d66 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{427826747189293201,4959512529292063211}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Trunk"}
+		s %Resource{"{ 5a512bfc-0bdc-40c5-81d7-910baa958afa }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2667762514791607211,4959962953090628498}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Trim_Cornice"}
+		s %Resource{"{ 8c8e321e-afad-49b8-b8a7-bc1d23b1a38d }"}
+	}
+}
+o
+{
+	Uuid %id{u4{3454250337012391589,4980012415906363280}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Banner_Metal"}
+		s %Resource{"{ 90368bf6-a944-4881-90e6-546b233f689a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{3620106478402705825,5024613147187121791}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Curbstones"}
+		s %Resource{"{ 67176e97-455c-4a59-80a4-b215d3e103f1 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11943472370323613580,5029710463377136379}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Balcony_Ornaments"}
+		s %Resource{"{ 97cc2311-a247-45e0-834d-4323dcd11971 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4728589979488566417,5049351560635211898}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete_Smooth_BLENDSHADER"}
+		s %Resource{"{ 3b2041a1-6f8d-4627-aadf-21103022f977 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{10447634866254035335,5067734776487858288}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MenuSign_02_Mesh"}
+		s %Resource{"{ a1aa11f2-2ffc-47ec-8289-afdb7478142f }"}
+	}
+}
+o
+{
+	Uuid %id{u4{3942621793480576924,5070354013659868294}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Glass_Dirty_MASKED"}
+		s %Resource{"{ 5678f54c-5e2e-4dbc-87bd-1e05392e4047 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{3891318271473546906,5081204031610697914}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Brick_Small_Red"}
+		s %Resource{"{ 203aa9f7-621f-43d2-bbc9-c7acb6d41848 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{12255676221416164227,5096340309693790262}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete_Smooth"}
+		s %Resource{"{ 08f23d39-2caf-48a2-85d7-78d0ee253c42 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{13733211975007930033,5110346837272392585}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Streetlight_Chains"}
+		s %Resource{"{ bd937de7-38d0-4039-902c-39d3fd8b2b97 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{7143639302762036915,5115985833859759649}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Cobblestone_Big_BLENDSHADER"}
+		s %Resource{"{ 03c4247b-f32a-4b78-a923-e6928570bac7 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5745501084138352008,5116308961946795087}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StringLights_01_Blue_Color_Emissive"}
+		s %Resource{"{ ef4e5b1e-ac99-4295-af1f-5d25df43dcd0 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{7241322595381584055,5120446492945580399}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Bistro_Main_Door"}
+		s %Resource{"{ 88d8d34e-652d-4e9c-b949-dd065ee0727f }"}
+	}
+}
+o
+{
+	Uuid %id{u4{7732962531649547917,5126725556853111174}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Roofing_Metal_01"}
+		s %Resource{"{ 69d39c38-3ac0-4241-bf95-6ba8d5f65cf4 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4794687081580472471,5151150021270988043}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Shopsign_Bakery"}
+		s %Resource{"{ a0322ea5-c2bf-4851-b397-e9b88d650525 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{14381152505024158613,5162986563539442994}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_Table_Terrace"}
+		s %Resource{"{ 44cefb47-ca68-4673-a7eb-cb27e44faef0 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11006426258298112143,5163184412922469995}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Bronze_BLENDSHADER"}
+		s %Resource{"{ 4a457f63-bda3-433b-9cb9-8a9a4b57b78e }"}
+	}
+}
+o
+{
+	Uuid %id{u4{18318573739222257850,5166943912388797083}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Doors"}
+		s %Resource{"{ 2f6a6836-87c1-4159-a284-6f67e89eaf5c }"}
+	}
+}
+o
+{
+	Uuid %id{u4{6551031006251325102,5172351833309918309}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"LanternEmissive"}
+		s %Resource{"{ f43ac90a-7ba0-4328-a6a2-19914de84ad7 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{7421235796907594640,5175189689115271651}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Cobblestone_02"}
+		s %Resource{"{ 45da7920-b9c7-420f-8d04-7bff8af0a1fb }"}
+	}
+}
+o
+{
+	Uuid %id{u4{7619752311578963083,5182098471730901192}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Wood_Painted_Cyan"}
+		s %Resource{"{ 350a37e7-e611-491a-a3c0-60fc01817577 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{1019494125945088391,5202702432048884352}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Metal_Pipe"}
+		s %Resource{"{ 6f070b37-a587-4206-ae3e-e1c9fad59afe }"}
+	}
+}
+o
+{
+	Uuid %id{u4{9385005649558571170,5230813865942155998}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Vespa_Headlight"}
+		s %Resource{"{ ad897b19-7aee-4120-9229-1ae9e184c618 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5097983065992397469,5238067581039256967}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Light_Bulb"}
+		s %Resource{"{ f6e4a5d4-970a-467b-a0c1-fd424599844b }"}
+	}
+}
+o
+{
+	Uuid %id{u4{9606810225421984173,5255627940027047500}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Concrete"}
+		s %Resource{"{ 7b2d089d-1d6c-4d3a-9bd9-547a232b7332 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{6320758799744818322,5257437353084604562}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StringLights_01_Orange_Color_Emissive"}
+		s %Resource{"{ b771c935-1872-488d-842b-27fa71f46d47 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{10051179565143735445,5258607159005347982}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Linde_Tree_Large_Green_Leaves.DoubleSided"}
+		s %Resource{"{ f992990a-6b76-4960-a1c6-833779432146 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{1219686725998814357,5273840569751669389}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Brick_BLENDSHADER"}
+		s %Resource{"{ 66c2e036-ec77-48be-b3cd-1aab910715bf }"}
+	}
+}
+o
+{
+	Uuid %id{u4{15653769666264962494,5281889581142713511}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Cobblestone_01_BLENDSHADER"}
+		s %Resource{"{ d29aee5d-7d64-4f0f-8b0d-9e450efdb5e3 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11009583200950856588,5316047961719681535}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Concrete2"}
+		s %Resource{"{ ae16f5e2-bf0b-4cb6-a1be-4b7aea9152bb }"}
+	}
+}
+o
+{
+	Uuid %id{u4{10875895327400047243,5324353054557813711}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Cobble_Leaves_BLENDSHADER"}
+		s %Resource{"{ 76992e55-cf3f-4d20-ad1d-7257d3b4200f }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11871730749339672450,5324489711157323728}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Paris_Flowers"}
+		s %Resource{"{ 3affdb7f-a517-4c2c-8010-fdff475c173c }"}
+	}
+}
+o
+{
+	Uuid %id{u4{1137236269055806127,5336585178432251945}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Antenna_Plastic_Blue"}
+		s %Resource{"{ 43132ceb-35d7-4be4-a39e-5a24777699d2 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{13848469019909329043,5343620969622743534}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Ivy_branches"}
+		s %Resource{"{ bb1a61f3-86d9-49d2-af7b-4e531646160b }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16185572907371947193,5346578867330373625}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Shopsign_Book_Store_Emissive"}
+		s %Resource{"{ 3421316e-6d7b-4513-8228-0623d5364c54 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16459652740421520769,5347631137643381509}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Ivy_leaf_a.DoubleSided"}
+		s %Resource{"{ 1013a56c-374d-427e-91b8-9c050918c5d5 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{7857290587767146380,5364828530809259087}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StringLights_01_Green_Color_Emissive"}
+		s %Resource{"{ 1ffb33a3-e228-4c5b-b762-2353566f1642 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{440728722719592332,5385555656302887620}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Linde_Tree_Large_Trunk"}
+		s %Resource{"{ 8e94f610-0310-46ba-8b0f-4c2430cf9afd }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11443019322975178146,5386661961535404100}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Chimneys_Metal"}
+		s %Resource{"{ 92d78f32-3cd7-434e-8a6d-1dcbda832afc }"}
+	}
+}
+o
+{
+	Uuid %id{u4{6548771695813084838,5397853815887430660}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Forge_Metal"}
+		s %Resource{"{ f883d188-c1de-47ed-9e4f-a344cf4af562 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11600459629884133029,5419090660522627368}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Brick_Small_Red_BLENDSHADER"}
+		s %Resource{"{ 82827972-87e0-4f9f-8a66-95467e1f3892 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{8243876907689353125,5420156401259574601}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Wood_Polished"}
+		s %Resource{"{ f0f98b4c-34af-4c6d-bb01-186997387aba }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11406253402933158025,5421632516206403374}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Vespa_Odometer"}
+		s %Resource{"{ eee6e295-c196-4fef-9da5-7c38894ed39c }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16956386603679788683,5423641086826307022}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StringLights_01_White_Color_Emissive"}
+		s %Resource{"{ d395e55b-14a6-468f-a637-db2c8b429347 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{9415743948242055098,5442635432020522800}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Bollards"}
+		s %Resource{"{ 21189c54-774b-492a-8785-26b71ff4b30e }"}
+	}
+}
+o
+{
+	Uuid %id{u4{9711505860633841324,5443691875687019366}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete_Yellow"}
+		s %Resource{"{ 278cca1a-9d52-4e3b-bdd5-0c6642b103f4 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5169461867792796853,5452048891961741634}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Spotlight_Main"}
+		s %Resource{"{ 1e1ccc66-a86f-4076-9fd5-2168ae42ac6a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{10694431249624146602,5453700361746481450}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_LiquorBottle_01_Labels"}
+		s %Resource{"{ f31f2050-26d2-43f3-b6ac-5310d34e4ced }"}
+	}
+}
+o
+{
+	Uuid %id{u4{15155814384412219823,5467779305200563705}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Room_Interior"}
+		s %Resource{"{ a9308d8d-07fe-4111-8097-1b48a21d9803 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{14314243606660121023,5486101995489954982}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Concrete3"}
+		s %Resource{"{ e2213509-e94d-4360-9bf6-f14b3f282ba1 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16363471511272784786,5496337838235348072}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Stringlights"}
+		s %Resource{"{ 7e35dd08-1c1c-40f2-9b6e-982b656e8f53 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{14417602270121059985,5498014216843348817}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete_Plaster"}
+		s %Resource{"{ a5a3bdf9-ba50-46c3-ba73-9a289d0c9a64 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2606729781015263657,5506655852446191173}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Plantpots"}
+		s %Resource{"{ 71157996-91f5-4e48-ae2a-a93e330bd8f5 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{17995805103180054451,5520327726884848936}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StreetPivot"}
+		s %Resource{"{ a245d685-9706-45f4-a821-a1f5189391c4 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{11251942926392128188,5532205646534869092}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Wood_Painted3"}
+		s %Resource{"{ 824d5be3-e854-43d7-a743-177a8d451870 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5025288647100842403,5537554747214020031}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_LiquorBottle_01_Caps"}
+		s %Resource{"{ 4ed703ee-0c09-4789-bb6b-07f7059d7ebf }"}
+	}
+}
+o
+{
+	Uuid %id{u4{12633859778925736599,5546798468293179056}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Antenna_Metal"}
+		s %Resource{"{ 2fe95d5a-3387-4956-9ac9-5ad804929c76 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{8375897797578937494,5567517650343370853}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Side_Letters"}
+		s %Resource{"{ f27b3c42-1911-43ee-9990-6ffaf875084d }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5023001349272682402,5574691802102737477}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Concrete_Striped"}
+		s %Resource{"{ 0f981f31-2c94-4701-8500-0854645f93bc }"}
+	}
+}
+o
+{
+	Uuid %id{u4{15120406750671230367,5581510914993339266}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Wood_Brown"}
+		s %Resource{"{ b6a8d2e7-1cbc-415a-839e-5241005d64a1 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{10516428787926771637,5590350585635728620}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Focus"}
+		s %Resource{"{ 9648701a-a2dd-4b24-b400-230a98aca3a7 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{14131797194023010448,5605270861346390217}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Cobblestone_Small_BLENDSHADER"}
+		s %Resource{"{ 15cf748e-fbb1-4736-b757-003b662bb1ba }"}
+	}
+}
+o
+{
+	Uuid %id{u4{9044943050471514765,5608723734520217187}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Details_Dark"}
+		s %Resource{"{ d04eb524-c990-4ef7-8e8d-3902df2f084b }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16545313631512074380,5609326133791019006}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Cobblestone_Wet_Leaves_BLENDSHADER"}
+		s %Resource{"{ 6916188b-efd5-46bf-a226-a35d063e5a8a }"}
+	}
+}
+o
+{
+	Uuid %id{u4{481153894833886393,5619680270146141012}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Flowers.DoubleSided"}
+		s %Resource{"{ 113798d1-597c-4288-ad76-b9219412e284 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2170045500388287147,5626718034376640442}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete1"}
+		s %Resource{"{ 3a9ea4d5-71ec-4f37-9b32-97e401533ecb }"}
+	}
+}
+o
+{
+	Uuid %id{u4{7790427450520357310,5626741455813119482}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"NapkinHolder"}
+		s %Resource{"{ b856dec9-d912-4e99-bb43-91b95ad6d385 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{15512936244748905613,5634500486738413180}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Glass_Exterior"}
+		s %Resource{"{ 47079fa3-ff48-465d-abf6-d6d94ca1b472 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4736197895099063224,5636324325366062527}}
+	s %t{"ezMeshAssetProperties"}
+	u3 %v{5}
+	p
+	{
+		b %AggressiveSimplification{0}
+		Angle %Angle{f{0xDB0FC940}}
+		b %Cap{1}
+		b %Cap2{1}
+		u2 %Detail{0}
+		u2 %Detail2{0}
+		b %FlipForwardDir{0}
+		f %Height{0x0000803F}
+		b %HighPrecision{0}
+		b %ImportMaterials{0}
+		s %ImportTransform{"ezMeshImportTransform::Blender_YUp"}
+		VarArray %Materials
+		{
+			Uuid{u4{16363471511272784786,5496337838235348072}}
+			Uuid{u4{6320758799744818322,5257437353084604562}}
+			Uuid{u4{5745501084138352008,5116308961946795087}}
+			Uuid{u4{16956386603679788683,5423641086826307022}}
+			Uuid{u4{17453431428447710627,5650665565649216489}}
+			Uuid{u4{1442358885748882592,4714020637656255661}}
+			Uuid{u4{7857290587767146380,5364828530809259087}}
+			Uuid{u4{7241322595381584055,5120446492945580399}}
+			Uuid{u4{3620106478402705825,5024613147187121791}}
+			Uuid{u4{16773603604649190327,5704921333989242657}}
+			Uuid{u4{17277237880603333029,4620161590214730657}}
+			Uuid{u4{10516428787926771637,5590350585635728620}}
+			Uuid{u4{8491868369294714505,4646486862586200534}}
+			Uuid{u4{15978098133459966882,4882050406222821503}}
+			Uuid{u4{6551031006251325102,5172351833309918309}}
+			Uuid{u4{9576642528615984795,4914714583410540179}}
+			Uuid{u4{3454250337012391589,4980012415906363280}}
+			Uuid{u4{5169461867792796853,5452048891961741634}}
+			Uuid{u4{1330854582951604129,4705210786322275567}}
+			Uuid{u4{4224316908268863403,5735246440434379917}}
+			Uuid{u4{14381152505024158613,5162986563539442994}}
+			Uuid{u4{8131470501161367997,4707596029558557402}}
+			Uuid{u4{17995805103180054451,5520327726884848936}}
+			Uuid{u4{3478065596815612291,4664295855035170450}}
+			Uuid{u4{14779169346701345691,5658971469975211223}}
+			Uuid{u4{13276999499190066342,5682522507784639961}}
+			Uuid{u4{13733211975007930033,5110346837272392585}}
+			Uuid{u4{14314243606660121023,5486101995489954982}}
+			Uuid{u4{11600459629884133029,5419090660522627368}}
+			Uuid{u4{16228147302053342618,4760409860046152772}}
+			Uuid{u4{10875895327400047243,5324353054557813711}}
+			Uuid{u4{15653769666264962494,5281889581142713511}}
+			Uuid{u4{16545313631512074380,5609326133791019006}}
+			Uuid{u4{14131797194023010448,5605270861346390217}}
+			Uuid{u4{7143639302762036915,5115985833859759649}}
+			Uuid{u4{1219686725998814357,5273840569751669389}}
+			Uuid{u4{7421235796907594640,5175189689115271651}}
+			Uuid{u4{15442517384938198434,4852314292957532511}}
+			Uuid{u4{17883403138969053609,4941209804309384866}}
+			Uuid{u4{16185572907371947193,5346578867330373625}}
+			Uuid{u4{12633859778925736599,5546798468293179056}}
+			Uuid{u4{4794687081580472471,5151150021270988043}}
+			Uuid{u4{10439125600990968711,4748543400474519742}}
+			Uuid{u4{2776835168644844720,4620247713580852376}}
+			Uuid{u4{2606729781015263657,5506655852446191173}}
+			Uuid{u4{7790427450520357310,5626741455813119482}}
+			Uuid{u4{10447634866254035335,5067734776487858288}}
+			Uuid{u4{4904739843644322994,5653242210683544008}}
+			Uuid{u4{16121550549982608797,4729270424411822894}}
+			Uuid{u4{2172527230804747435,4611825343455123192}}
+			Uuid{u4{11769430660505615505,4640507827551473434}}
+			Uuid{u4{11943472370323613580,5029710463377136379}}
+			Uuid{u4{10394134205896674749,5646672437551108937}}
+			Uuid{u4{3942621793480576924,5070354013659868294}}
+			Uuid{u4{15107846949828665511,4886647461619368133}}
+			Uuid{u4{5025288647100842403,5537554747214020031}}
+			Uuid{u4{10694431249624146602,5453700361746481450}}
+			Uuid{u4{11871730749339672450,5324489711157323728}}
+			Uuid{u4{481153894833886393,5619680270146141012}}
+			Uuid{u4{15253180489763750531,5710168261922737898}}
+			Uuid{u4{9606810225421984173,5255627940027047500}}
+			Uuid{u4{5023001349272682402,5574691802102737477}}
+			Uuid{u4{11009583200950856588,5316047961719681535}}
+			Uuid{u4{3783436912990202792,5666490033028438647}}
+			Uuid{u4{11443019322975178146,5386661961535404100}}
+			Uuid{u4{5916907376846342028,5745124690927814892}}
+			Uuid{u4{2258317333425844129,4729043706478053883}}
+			Uuid{u4{5297396254802643348,5758433586189574973}}
+			Uuid{u4{5016297505583338631,4851855646312546673}}
+			Uuid{u4{14417602270121059985,5498014216843348817}}
+			Uuid{u4{9338898030924074651,4695444460443667243}}
+			Uuid{u4{4947126290078855862,5699348697385326525}}
+			Uuid{u4{15155814384412219823,5467779305200563705}}
+			Uuid{u4{4981934819970818744,4652208855653657012}}
+			Uuid{u4{18318573739222257850,5166943912388797083}}
+			Uuid{u4{6772973421720766124,4698761330481724924}}
+			Uuid{u4{6548771695813084838,5397853815887430660}}
+			Uuid{u4{15120406750671230367,5581510914993339266}}
+			Uuid{u4{16865827265467138697,4750546379792888249}}
+			Uuid{u4{12255676221416164227,5096340309693790262}}
+			Uuid{u4{8100145597299554963,5760758318300204329}}
+			Uuid{u4{8894127852033123478,4838124501919634450}}
+			Uuid{u4{9614079978122148270,4902127482865981271}}
+			Uuid{u4{16482626476979418003,4676426932370755681}}
+			Uuid{u4{4928472523446618800,4612988971088618637}}
+			Uuid{u4{12729226878645529234,4948428206500260138}}
+			Uuid{u4{7732962531649547917,5126725556853111174}}
+			Uuid{u4{9044943050471514765,5608723734520217187}}
+			Uuid{u4{2586465410128879007,4821777710260283610}}
+			Uuid{u4{13032867720014243238,4804636085257822636}}
+			Uuid{u4{7619752311578963083,5182098471730901192}}
+			Uuid{u4{4519499538472078484,4880338482682200825}}
+			Uuid{u4{2837494134671399094,4907644476204631694}}
+			Uuid{u4{11251942926392128188,5532205646534869092}}
+			Uuid{u4{11006426258298112143,5163184412922469995}}
+			Uuid{u4{6997253332594168475,5639220896977599036}}
+			Uuid{u4{4728589979488566417,5049351560635211898}}
+			Uuid{u4{17754026642208103341,4705869980099050053}}
+			Uuid{u4{4775651076886902156,5699676259341279323}}
+			Uuid{u4{3891318271473546906,5081204031610697914}}
+			Uuid{u4{2707928698300416178,5729434930955722634}}
+			Uuid{u4{5097983065992397469,5238067581039256967}}
+			Uuid{u4{15512936244748905613,5634500486738413180}}
+			Uuid{u4{8375897797578937494,5567517650343370853}}
+			Uuid{u4{2170045500388287147,5626718034376640442}}
+			Uuid{u4{13910425541660757174,4744767222612751454}}
+			Uuid{u4{1019494125945088391,5202702432048884352}}
+			Uuid{u4{8243876907689353125,5420156401259574601}}
+			Uuid{u4{9711505860633841324,5443691875687019366}}
+			Uuid{u4{451095011807217834,5640470738567985247}}
+			Uuid{u4{2667762514791607211,4959962953090628498}}
+			Uuid{u4{9415743948242055098,5442635432020522800}}
+			Uuid{u4{12389655299717011099,4667461077376915935}}
+			Uuid{u4{5790858439511196602,5680660059482812383}}
+			Uuid{u4{2494910844302989233,4642849260955556709}}
+			Uuid{u4{6457480192106476931,4958223681544123814}}
+			Uuid{u4{345526017047222195,4709101891222671237}}
+			Uuid{u4{7106464909329313707,5637636198358566642}}
+			Uuid{u4{1137236269055806127,5336585178432251945}}
+			Uuid{u4{3368270617397699234,5649165149845525445}}
+			Uuid{u4{440728722719592332,5385555656302887620}}
+			Uuid{u4{210485016440782474,5694073204095725413}}
+			Uuid{u4{10051179565143735445,5258607159005347982}}
+			Uuid{u4{13848469019909329043,5343620969622743534}}
+			Uuid{u4{16459652740421520769,5347631137643381509}}
+			Uuid{u4{18159205851142000264,4938494474971635271}}
+			Uuid{u4{14522239725358208421,4780704885127177563}}
+			Uuid{u4{11406253402933158025,5421632516206403374}}
+			Uuid{u4{11283496275175478417,4693706704947710887}}
+			Uuid{u4{1851434548838257848,5670301777767909465}}
+			Uuid{u4{427826747189293201,4959512529292063211}}
+			Uuid{u4{9385005649558571170,5230813865942155998}}
+		}
+		u1 %MaxSimplificationError{5}
+		s %MeshExcludeTags{"$;UCX_"}
+		s %MeshFile{"Bistro_v5_2/BistroExterior.fbx"}
+		s %MeshIncludeTags{""}
+		u1 %MeshSimplification{50}
+		s %PrimitiveType{"ezMeshPrimitive::File"}
+		f %Radius{0x0000003F}
+		f %Radius2{0x0000003F}
+		b %RecalculateNormals{0}
+		b %RecalculateTangents{1}
+		s %RightDir{"ezBasisAxis::NegativeX"}
+		b %SimplifyMesh{0}
+		f %UniformScaling{0x0000803F}
+		s %UpDir{"ezBasisAxis::PositiveY"}
+		s %VertexColorConversion{"ezMeshVertexColorConversion::None"}
+	}
+}
+o
+{
+	Uuid %id{u4{7106464909329313707,5637636198358566642}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Ashtray"}
+		s %Resource{"{ 2ae25639-a4d6-4296-84d7-8eb184e79063 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{6997253332594168475,5639220896977599036}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Wood_Painted_Green_BLENDSHADER"}
+		s %Resource{"{ f149e92d-c60f-4e3d-9b9a-2706a71e1dab }"}
+	}
+}
+o
+{
+	Uuid %id{u4{451095011807217834,5640470738567985247}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Roofing_Shingle_Green"}
+		s %Resource{"{ ba032006-19fe-4548-a2db-315a1b663a81 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{10394134205896674749,5646672437551108937}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Balcony_Green_Wood"}
+		s %Resource{"{ a8267215-1c89-4bc0-adae-66f623e4a979 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{3368270617397699234,5649165149845525445}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Antenna_Plastic"}
+		s %Resource{"{ f1337bb7-93a9-44a1-a827-8f3c096542aa }"}
+	}
+}
+o
+{
+	Uuid %id{u4{17453431428447710627,5650665565649216489}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StringLights_01_Pink_Color_Emissive"}
+		s %Resource{"{ c860a1e3-d72e-4f49-8c71-e7c1644edc62 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4904739843644322994,5653242210683544008}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MenuSign_02_Glass"}
+		s %Resource{"{ 9b78d6f7-7b6a-4b90-9792-87e4d54f21af }"}
+	}
+}
+o
+{
+	Uuid %id{u4{14779169346701345691,5658971469975211223}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_StringLights_01_White_Color"}
+		s %Resource{"{ 84fecf7b-542b-4bb0-a086-e9abe71e5478 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{3783436912990202792,5666490033028438647}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Black_Metal"}
+		s %Resource{"{ ccfd0fc9-d0f8-4256-9693-3eb80e3ee3fb }"}
+	}
+}
+o
+{
+	Uuid %id{u4{1851434548838257848,5670301777767909465}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Leaves.DoubleSided"}
+		s %Resource{"{ 2ea2fc6a-cf24-4fb9-baa1-b9e1c685fe4e }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5790858439511196602,5680660059482812383}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Bistro_Sign_Letters"}
+		s %Resource{"{ 30c2557c-3d6a-4947-829a-d0d17b9fd1b3 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{13276999499190066342,5682522507784639961}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Streetlight_Support_Bulb"}
+		s %Resource{"{ 26679d39-4a0a-47aa-b0b3-86d6e32dbf60 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{210485016440782474,5694073204095725413}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Foliage_Linde_Tree_Large_Orange_Leaves.DoubleSided"}
+		s %Resource{"{ 5b2230c6-01f6-4632-a929-4829c7ba1a55 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4947126290078855862,5699348697385326525}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Wood_Painted_Green"}
+		s %Resource{"{ d8628480-425b-4cb3-a2dc-78784d4937c2 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4775651076886902156,5699676259341279323}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete_White"}
+		s %Resource{"{ 278e9989-3819-47c4-88bf-39a51e66146e }"}
+	}
+}
+o
+{
+	Uuid %id{u4{16773603604649190327,5704921333989242657}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Pavement_Manhole_Cover"}
+		s %Resource{"{ e3dbdcd4-8839-4664-8c5d-d70c7c8c7d2e }"}
+	}
+}
+o
+{
+	Uuid %id{u4{15253180489763750531,5710168261922737898}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"ElectricBox"}
+		s %Resource{"{ 84cac092-69cc-44bf-901a-255c74ac6059 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{2707928698300416178,5729434930955722634}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Brick_Large_White"}
+		s %Resource{"{ 00f91ef3-dd8a-484f-84af-1d046e39ef67 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{4224316908268863403,5735246440434379917}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Paris_TrafficSign_A"}
+		s %Resource{"{ 4bcafa0c-f89e-49b9-981c-e1481107efe9 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5916907376846342028,5745124690927814892}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"Plaster"}
+		s %Resource{"{ 94e8f2b9-ae2f-478e-895d-66aa41eeffd3 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{5297396254802643348,5758433586189574973}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Grain_Metal"}
+		s %Resource{"{ de3942c9-5b6c-49ff-9827-98d553438103 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{8100145597299554963,5760758318300204329}}
+	s %t{"ezMaterialResourceSlot"}
+	u3 %v{1}
+	p
+	{
+		s %Label{"MASTER_Concrete_Plaster1_BLENDSHADER"}
+		s %Resource{"{ 3a7b3202-6fbc-4185-9340-79370d84dae6 }"}
+	}
+}
+o
+{
+	Uuid %id{u4{18096612296587978288,6449934965513159559}}
+	s %t{"ezDocumentRoot"}
+	u3 %v{1}
+	s %n{"ObjectTree"}
+	p
+	{
+		VarArray %Children
+		{
+			Uuid{u4{4736197895099063224,5636324325366062527}}
+		}
+	}
+}
+}
+Types
+{
+o
+{
+	Uuid %id{u4{3975990526721687754,926589309994965004}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::IsEnum|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{"ezEnumBase"}
+		s %PluginName{"ezEditorPluginAssets"}
+		VarArray %Properties{}
+		s %TypeName{"ezMeshPrimitive"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
+	Uuid %id{u4{5578311699685810862,3953450409323753049}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{"ezReflectedClass"}
+		s %PluginName{"ezEditorPluginAssets"}
+		VarArray %Properties{}
+		s %TypeName{"ezMeshAssetProperties"}
+		u3 %TypeVersion{5}
+	}
+}
+o
+{
+	Uuid %id{u4{6089094783765586323,8705960867921430659}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{"ezReflectedClass"}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezDocumentRoot"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
+	Uuid %id{u4{16959510582460493866,8962221111705621108}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::IsEnum|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{"ezEnumBase"}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezMeshImportTransform"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
+	Uuid %id{u4{7523378465055293707,11345788873737253128}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{""}
+		s %PluginName{"ezEditorPluginAssets"}
+		VarArray %Properties{}
+		s %TypeName{"ezMaterialResourceSlot"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
+	Uuid %id{u4{1149684950174857976,12897203947091760514}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::IsEnum|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{"ezEnumBase"}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezMeshVertexColorConversion"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
+	Uuid %id{u4{2947336711354777548,15013008608905564043}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{""}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezEnumBase"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
+	Uuid %id{u4{14469700887475489738,16951777026318265606}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::IsEnum|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{"ezEnumBase"}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezBasisAxis"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
+	Uuid %id{u4{983387834180907111,17935407260904399048}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{""}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezReflectedClass"}
+		u3 %TypeVersion{1}
+	}
+}
+}
