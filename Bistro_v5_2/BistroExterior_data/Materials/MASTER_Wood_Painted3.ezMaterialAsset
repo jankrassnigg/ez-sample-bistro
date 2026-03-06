@@ -14,7 +14,7 @@ o
 			s{"{ 7c71fc2d-2a1a-4938-9305-f3a0f26d73cc }"}
 		}
 		Uuid %DocumentID{u4{8077282405630034855,4888631370194967523}}
-		u4 %Hash{17956748721314169210}
+		u4 %Hash{6552904866734971714}
 		VarArray %MetaInfo{}
 		VarArray %Outputs{}
 		VarArray %PackageDeps
@@ -55,7 +55,7 @@ o
 		s %OcclusionTexture{""}
 		s %OrmTexture{""}
 		s %RoughnessTexture{""}
-		f %RoughnessValue{0xE5E4E43E}
+		f %RoughnessValue{0x0000003F}
 		s %SHADING_MODE{"SHADING_MODE::SHADING_MODE_LIT"}
 		b %TWO_SIDED{0}
 		b %UseBaseTexture{1}
