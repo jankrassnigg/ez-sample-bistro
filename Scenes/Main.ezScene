@@ -11,7 +11,7 @@ o
 		s %AssetType{"Scene"}
 		VarArray %Dependencies{}
 		Uuid %DocumentID{u4{13386237491286158623,10419411049637592044}}
-		u4 %Hash{5943327464673188236}
+		u4 %Hash{16748103231508511112}
 		VarArray %MetaInfo{}
 		VarArray %Outputs{}
 		VarArray %PackageDeps
@@ -655,7 +655,7 @@ o
 			Uuid{u4{8939123771195836604,5232808617647017330}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0xD616C042,0x196E76C2,0x80D5303D}}
+		Vec3 %LocalPosition{f{0xA3E3BF42,0x729D91C2,0x20B2B6BE}}
 		Quat %LocalRotation{f{0x94CC523D,0x320B383D,0x9E6440BF,0x2BF9273F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -681,6 +681,35 @@ o
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
+	}
+}
+o
+{
+	Uuid %id{u4{15937035023167115452,4665105228048286352}}
+	s %t{"ezSpotLightComponent"}
+	u3 %v{4}
+	p
+	{
+		b %Active{1}
+		b %CastShadows{1}
+		f %ConstantBias{0xCDCCCC3D}
+		s %Cookie{""}
+		ColorGamma %EffectiveColor{u1{255,255,255,255}}
+		Angle %InnerSpotAngle{f{0}}
+		f %Intensity{0x00409C45}
+		ColorGamma %LightColor{u1{255,255,255,255}}
+		s %Material{""}
+		u3 %MaterialResolution{512}
+		Time %MaterialUpdateInterval{d{0}}
+		Angle %OuterSpotAngle{f{0xAA619C3F}}
+		f %PenumbraSize{0xCDCC4C3D}
+		f %Range{0}
+		f %ShadowFadeOutRange{0}
+		f %SlopeBias{0x0000803E}
+		f %SpecularMultiplier{0}
+		u3 %Temperature{12106}
+		b %TransparentShadows{0}
+		b %UseColorTemperature{1}
 	}
 }
 o
@@ -997,7 +1026,7 @@ o
 			Uuid{u4{3986315546020535711,4679117802341494530}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0xE4E7D042,0x899468C2,0x301488BF}}
+		Vec3 %LocalPosition{f{0x171BD242,0x556173C2,0x3014C8BF}}
 		Quat %LocalRotation{f{0xE45287BD,0x33905B3D,0xEE15463F,0x84B2203F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -1118,7 +1147,7 @@ o
 			Uuid{u4{10718632330782556550,5159289957389779248}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0x9C6C6F41,0x363F6341,0xC69B8640}}
+		Vec3 %LocalPosition{f{0xD09F6A41,0x363F6341,0x58047A40}}
 		Quat %LocalRotation{f{0,0,0,0x0000803F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -1385,6 +1414,32 @@ o
 }
 o
 {
+	Uuid %id{u4{4684735171345084606,5256142695898159743}}
+	s %t{"ezGameObject"}
+	u3 %v{1}
+	p
+	{
+		b %Active{1}
+		VarArray %Children{}
+		VarArray %Components
+		{
+			Uuid{u4{15937035023167115452,4665105228048286352}}
+		}
+		s %GlobalKey{""}
+		Vec3 %LocalPosition{f{0x84194142,0x165857C2,0xA2CF1142}}
+		Quat %LocalRotation{f{0x8E5FAFBE,0x2C0457BE,0x70DD473F,0x100BF5BE}}
+		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
+		f %LocalUniformScaling{0x0000803F}
+		s %Mode{"ezObjectMode::Automatic"}
+		s %Name{""}
+		VarArray %Tags
+		{
+			s{"CastShadow"}
+		}
+	}
+}
+o
+{
 	Uuid %id{u4{1147643612526295448,5260951581898900202}}
 	s %t{"ezGameObject"}
 	u3 %v{1}
@@ -1397,7 +1452,7 @@ o
 			Uuid{u4{17806839508613706913,5227061443349830968}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0x24939F42,0x214544C2,0xE0558140}}
+		Vec3 %LocalPosition{f{0x57C68542,0xF68888C2,0xE0558140}}
 		Quat %LocalRotation{f{0xF5DD723B,0x0137A93D,0x57E636BD,0xDFDD7E3F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -1788,7 +1843,7 @@ o
 			Uuid{u4{7307839179952660138,5691871478139419260}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0x60028542,0xEA201AC2,0x5CF1B940}}
+		Vec3 %LocalPosition{f{0x55EA8742,0x8F693FC2,0xACF0BC40}}
 		Quat %LocalRotation{f{0x49A449BB,0xB56880BB,0x30171EBF,0x8D59493F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -2049,12 +2104,12 @@ o
 	{
 		b %Active{1}
 		s %FollowMode{"ezFollowSplineMode::FullRotation"}
-		f %LookAhead{0x0000A040}
+		f %LookAhead{0x0000C040}
 		Angle %MaxTilt{f{0x920A063F}}
-		s %Mode{"ezPropertyAnimMode::BackAndForth"}
+		s %Mode{"ezPropertyAnimMode::Loop"}
 		b %Running{1}
 		f %Smoothing{0x0000003F}
-		f %Speed{0x0000A040}
+		f %Speed{0x0000C040}
 		s %Spline{"{ ef85e149-819f-4ad7-881e-70febd2e10de }"}
 		f %StartDistance{0}
 		f %TiltAmount{0x0000A040}
@@ -2181,6 +2236,7 @@ o
 			Uuid{u4{12708733691997547429,5355251411599177338}}
 			Uuid{u4{16001340869599829640,5392921602717770057}}
 			Uuid{u4{13709623622943623839,5097685343925170265}}
+			Uuid{u4{4684735171345084606,5256142695898159743}}
 		}
 		Uuid %Settings{u4{9296518404723317813,9948272652363848153}}
 	}
