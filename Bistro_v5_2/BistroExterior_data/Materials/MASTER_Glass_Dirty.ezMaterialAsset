@@ -14,7 +14,7 @@ o
 			s{"{ 7c71fc2d-2a1a-4938-9305-f3a0f26d73cc }"}
 		}
 		Uuid %DocumentID{u4{16027494839151591861,5166474025665856006}}
-		u4 %Hash{4105649663777317718}
+		u4 %Hash{2139825979335715192}
 		VarArray %MetaInfo{}
 		VarArray %Outputs{}
 		VarArray %PackageDeps
@@ -42,8 +42,8 @@ o
 	u3 %v{2}
 	p
 	{
-		s %BLEND_MODE{"BLEND_MODE::BLEND_MODE_OPAQUE"}
-		Color %BaseColor{f{0x0000803F,0x0000803F,0x0000803F,0x0000803F}}
+		s %BLEND_MODE{"BLEND_MODE::BLEND_MODE_TRANSPARENT"}
+		Color %BaseColor{f{0x0000803F,0x0000803F,0x0000803F,0x9796163F}}
 		s %BaseTexture{"{ 57a3d3ef-f50b-4c95-b9f2-b112e316ef97 }"}
 		s %DitherNoiseTexture{"{ ac614d7c-2b31-4a7b-aa0c-c5d8200b7b89 }"}
 		Color %EmissiveColor{f{0,0,0,0x0000803F}}
