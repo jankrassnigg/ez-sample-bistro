@@ -11,7 +11,7 @@ o
 		s %AssetType{"Scene"}
 		VarArray %Dependencies{}
 		Uuid %DocumentID{u4{13386237491286158623,10419411049637592044}}
-		u4 %Hash{1468829195943288287}
+		u4 %Hash{17504554971844379782}
 		VarArray %MetaInfo{}
 		VarArray %Outputs{}
 		VarArray %PackageDeps
@@ -36,7 +36,7 @@ o
 {
 	Uuid %id{u4{10330526284357819504,207478143634259875}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -52,6 +52,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -65,7 +66,7 @@ o
 {
 	Uuid %id{u4{5302755201349903479,333256169488976353}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -81,6 +82,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -94,7 +96,7 @@ o
 {
 	Uuid %id{u4{3061130583811238482,511818923922670231}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -110,6 +112,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -301,7 +304,7 @@ o
 {
 	Uuid %id{u4{16793314694733505339,1885081238096001958}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -309,8 +312,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,0,0,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -324,7 +329,7 @@ o
 {
 	Uuid %id{u4{6320206850062999938,1975095704970864485}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -332,8 +337,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -347,7 +354,7 @@ o
 {
 	Uuid %id{u4{4748404128989641271,2114219621418328121}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -355,8 +362,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,161,0,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -370,7 +379,7 @@ o
 {
 	Uuid %id{u4{10779207543248303636,2115336621550982706}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -378,8 +387,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{0,21,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -393,7 +404,7 @@ o
 {
 	Uuid %id{u4{10550294439619303553,2444109314280107600}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -409,6 +420,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -474,7 +486,7 @@ o
 {
 	Uuid %id{u4{2041254597787401390,2831791919635246404}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -490,6 +502,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -555,7 +568,7 @@ o
 {
 	Uuid %id{u4{6739762206543145883,2919946912252982119}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -571,6 +584,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -662,7 +676,7 @@ o
 {
 	Uuid %id{u4{13724341071110788313,4013038286447506044}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -670,8 +684,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00002041}
+		f %Length{0}
 		ColorGamma %LightColor{u1{244,79,76,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -685,7 +701,7 @@ o
 {
 	Uuid %id{u4{3594737879371178443,4334609454160261782}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -701,6 +717,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -746,8 +763,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -820,8 +837,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -831,7 +848,7 @@ o
 {
 	Uuid %id{u4{11087535847866941361,4650982704657726207}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -839,8 +856,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -860,8 +879,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -903,8 +922,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -914,7 +933,7 @@ o
 {
 	Uuid %id{u4{15937035023167115452,4665105228048286352}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -930,6 +949,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0xAA619C3F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -949,8 +969,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -966,8 +986,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -983,8 +1003,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -994,7 +1014,7 @@ o
 {
 	Uuid %id{u4{16645794285709621124,4736269939493149859}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -1002,8 +1022,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,0,0,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -1023,8 +1045,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -1086,7 +1108,7 @@ o
 {
 	Uuid %id{u4{17174077542421552055,4787344986048215020}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -1102,6 +1124,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -1135,33 +1158,8 @@ o
 	{
 		b %Active{1}
 		b %Closed{1}
+		b %EditNodes{0}
 		s %Flags{""}
-		VarArray %Nodes
-		{
-			HashedString{s{"1"}}
-			HashedString{s{"1.1"}}
-			HashedString{s{"2"}}
-			HashedString{s{"3"}}
-			HashedString{s{"4"}}
-			HashedString{s{"5"}}
-			HashedString{s{"6"}}
-			HashedString{s{"7"}}
-			HashedString{s{"8"}}
-			HashedString{s{"9"}}
-			HashedString{s{"10"}}
-			HashedString{s{"11"}}
-			HashedString{s{"12"}}
-			HashedString{s{"13"}}
-			HashedString{s{"14"}}
-			HashedString{s{"15"}}
-			HashedString{s{"16"}}
-			HashedString{s{"17"}}
-			HashedString{s{"18"}}
-			HashedString{s{"19"}}
-			HashedString{s{"20"}}
-			HashedString{s{"21"}}
-			HashedString{s{"22"}}
-		}
 	}
 }
 o
@@ -1541,8 +1539,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -1584,8 +1582,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -1627,11 +1625,37 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
+	}
+}
+o
+{
+	Uuid %id{u4{6350588048659373697,5171747462648721455}}
+	s %t{"ezGameObject"}
+	u3 %v{1}
+	p
+	{
+		b %Active{1}
+		VarArray %Children{}
+		VarArray %Components
+		{
+			Uuid{u4{11928898069021962646,5530539535010098380}}
+		}
+		s %GlobalKey{""}
+		Vec3 %LocalPosition{f{0x18B60FBF,0x335C55C1,0x1C836E40}}
+		Quat %LocalRotation{f{0,0,0,0x0000803F}}
+		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
+		f %LocalUniformScaling{0x0000803F}
+		s %Mode{"ezObjectMode::Automatic"}
+		s %Name{""}
+		VarArray %Tags
+		{
+			s{"CastShadow"}
+		}
 	}
 }
 o
@@ -1644,8 +1668,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -1687,8 +1711,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -1704,8 +1728,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -1812,8 +1836,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -1905,7 +1929,7 @@ o
 {
 	Uuid %id{u4{12184696941272276880,5373958705105285014}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -1913,8 +1937,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00002041}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -1985,8 +2011,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -2106,8 +2132,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -2137,6 +2163,31 @@ o
 		{
 			s{"CastShadow"}
 		}
+	}
+}
+o
+{
+	Uuid %id{u4{14161250763850558350,5508683440567387326}}
+	s %t{"ezPointLightComponent"}
+	u3 %v{4}
+	p
+	{
+		b %Active{1}
+		b %CastShadows{0}
+		f %ConstantBias{0xCDCCCC3D}
+		ColorGamma %EffectiveColor{u1{255,255,255,255}}
+		f %Intensity{0x00002041}
+		f %Length{0x85EB5140}
+		ColorGamma %LightColor{u1{255,208,21,255}}
+		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0x0000003F}
+		f %Range{0x7B147E40}
+		f %ShadowFadeOutRange{0}
+		f %SlopeBias{0x0000803E}
+		f %SpecularMultiplier{0x0000803F}
+		u3 %Temperature{6550}
+		b %TransparentShadows{0}
+		b %UseColorTemperature{0}
 	}
 }
 o
@@ -2182,6 +2233,57 @@ o
 }
 o
 {
+	Uuid %id{u4{11928898069021962646,5530539535010098380}}
+	s %t{"ezSphereReflectionProbeComponent"}
+	u3 %v{2}
+	p
+	{
+		b %Active{1}
+		Vec3 %CaptureOffset{f{0,0,0}}
+		VarArray %ExcludeTags
+		{
+			s{"SkyLight"}
+		}
+		f %Falloff{0xCDCCCC3D}
+		f %FarPlane{0x0000C842}
+		VarArray %IncludeTags{}
+		f %NearPlane{0}
+		f %Radius{0x00000041}
+		s %ReflectionProbeMode{"ezReflectionProbeMode::Static"}
+		b %ShowDebugInfo{0}
+		b %ShowMipMaps{0}
+		b %SphereProjection{1}
+	}
+}
+o
+{
+	Uuid %id{u4{8944076549993596316,5567717388589169371}}
+	s %t{"ezGameObject"}
+	u3 %v{1}
+	p
+	{
+		b %Active{1}
+		VarArray %Children
+		{
+			Uuid{u4{15679151734876657539,5687106903557770466}}
+			Uuid{u4{14815263375961303336,10693024116071665462}}
+		}
+		VarArray %Components{}
+		s %GlobalKey{""}
+		Vec3 %LocalPosition{f{0xC63275C1,0xCA331242,0x0400E040}}
+		Quat %LocalRotation{f{0xF304B53E,0x70C41CBF,0xF104B53E,0x70C41C3F}}
+		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
+		f %LocalUniformScaling{0x0000803F}
+		s %Mode{"ezObjectMode::Automatic"}
+		s %Name{"Tube Lights"}
+		VarArray %Tags
+		{
+			s{"CastShadow"}
+		}
+	}
+}
+o
+{
 	Uuid %id{u4{16280080723173680008,5568505379178717236}}
 	s %t{"ezSplineNodeComponent"}
 	u3 %v{1}
@@ -2190,8 +2292,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -2257,8 +2359,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -2274,8 +2376,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -2291,8 +2393,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -2386,8 +2488,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -2447,6 +2549,32 @@ o
 }
 o
 {
+	Uuid %id{u4{15679151734876657539,5687106903557770466}}
+	s %t{"ezGameObject"}
+	u3 %v{1}
+	p
+	{
+		b %Active{1}
+		VarArray %Children{}
+		VarArray %Components
+		{
+			Uuid{u4{14161250763850558350,5508683440567387326}}
+		}
+		s %GlobalKey{""}
+		Vec3 %LocalPosition{f{0x00004036,0x4EF591C1,0x3C6A5C40}}
+		Quat %LocalRotation{f{0,0,0,0xFDFF7F3F}}
+		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
+		f %LocalUniformScaling{0x0000803F}
+		s %Mode{"ezObjectMode::Automatic"}
+		s %Name{""}
+		VarArray %Tags
+		{
+			s{"CastShadow"}
+		}
+	}
+}
+o
+{
 	Uuid %id{u4{7307839179952660138,5691871478139419260}}
 	s %t{"ezSplineNodeComponent"}
 	u3 %v{1}
@@ -2455,8 +2583,8 @@ o
 		b %Active{1}
 		Vec3 %CustomTangentIn{f{0,0,0}}
 		Vec3 %CustomTangentOut{f{0,0,0}}
+		b %EditNodes{0}
 		b %LinkCustomTangents{0}
-		u1 %Nodes{0}
 		Angle %Roll{f{0}}
 		s %TangentModeIn{"ezSplineTangentMode::Auto"}
 		s %TangentModeOut{"ezSplineTangentMode::Auto"}
@@ -2538,7 +2666,7 @@ o
 {
 	Uuid %id{u4{1204192161354915124,5745824166861396916}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -2554,6 +2682,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0xF3665F3F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -2658,9 +2787,12 @@ o
 			Uuid{u4{2280973361073852069,5584148818120047441}}
 			Uuid{u4{12708733691997547429,5355251411599177338}}
 			Uuid{u4{1803238388830305461,4647695509646395006}}
+			Uuid{u4{8944076549993596316,5567717388589169371}}
 			Uuid{u4{16001340869599829640,5392921602717770057}}
 			Uuid{u4{13709623622943623839,5097685343925170265}}
 			Uuid{u4{4684735171345084606,5256142695898159743}}
+			Uuid{u4{6350588048659373697,5171747462648721455}}
+			Uuid{u4{8423756177937492520,10883191960701933028}}
 		}
 		Uuid %Settings{u4{9296518404723317813,9948272652363848153}}
 	}
@@ -2695,7 +2827,7 @@ o
 {
 	Uuid %id{u4{1946424107557610245,6846818155548596115}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -2703,8 +2835,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -2718,7 +2852,7 @@ o
 {
 	Uuid %id{u4{15137574629962569264,6936239930362133103}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -2726,8 +2860,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -2741,7 +2877,7 @@ o
 {
 	Uuid %id{u4{6983438835195608352,7000251516213536290}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -2749,8 +2885,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00004842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0xAE47613E}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -2764,7 +2902,7 @@ o
 {
 	Uuid %id{u4{16290834397831131192,7230814842959865448}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -2772,8 +2910,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00004842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0xAE47613E}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -2863,7 +3003,7 @@ o
 {
 	Uuid %id{u4{15095387688468882976,7495504476397318908}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -2879,6 +3019,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -2902,7 +3043,7 @@ o
 			Uuid{u4{6983438835195608352,7000251516213536290}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0xCDCC8841,0xB83FEEC0,0xA011C1BD}}
+		Vec3 %LocalPosition{f{0x20108741,0x3E57E9C0,0x8089C6BC}}
 		Quat %LocalRotation{f{0,0,0,0x0000803F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -2918,7 +3059,7 @@ o
 {
 	Uuid %id{u4{8505953707865116213,7531332004122193287}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -2926,8 +3067,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00004842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0x8FC2753E}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -2951,7 +3094,7 @@ o
 			Uuid{u4{16290834397831131192,7230814842959865448}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0x00009441,0xE9F439C1,0xA04AE4BD}}
+		Vec3 %LocalPosition{f{0x126A9241,0x65823AC1,0xC0E12DBD}}
 		Quat %LocalRotation{f{0,0,0,0x0000803F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -2977,7 +3120,7 @@ o
 			Uuid{u4{8505953707865116213,7531332004122193287}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0xCCCC7441,0x1AC52FC0,0x408B11BE}}
+		Vec3 %LocalPosition{f{0x197B7141,0x2F1E34C0,0x00106EBC}}
 		Quat %LocalRotation{f{0,0,0,0x0000803F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -3019,7 +3162,7 @@ o
 {
 	Uuid %id{u4{17239357219211826783,9524206326285594390}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3027,8 +3170,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3078,7 +3223,7 @@ o
 {
 	Uuid %id{u4{13483909470653296483,9724059436494407276}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -3094,6 +3239,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3136,7 +3282,7 @@ o
 {
 	Uuid %id{u4{12991549261520585798,9766648377109443373}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -3152,6 +3298,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3245,7 +3392,7 @@ o
 {
 	Uuid %id{u4{9089062075811652868,9995196536476286247}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3253,8 +3400,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{0,255,8,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3268,7 +3417,7 @@ o
 {
 	Uuid %id{u4{11530122348028614728,10019896840430945891}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -3284,6 +3433,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3401,7 +3551,7 @@ o
 {
 	Uuid %id{u4{10618005242981893394,10246261720841817381}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3409,8 +3559,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00002041}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3474,7 +3626,7 @@ o
 {
 	Uuid %id{u4{12464295464264842037,10396205170416776806}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3482,8 +3634,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,0,0,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3547,9 +3701,34 @@ o
 }
 o
 {
+	Uuid %id{u4{13297362404935204147,10514600653081282322}}
+	s %t{"ezPointLightComponent"}
+	u3 %v{4}
+	p
+	{
+		b %Active{1}
+		b %CastShadows{0}
+		f %ConstantBias{0xCDCCCC3D}
+		ColorGamma %EffectiveColor{u1{255,255,255,255}}
+		f %Intensity{0x00002041}
+		f %Length{0x85EB5140}
+		ColorGamma %LightColor{u1{255,208,21,255}}
+		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0x0000003F}
+		f %Range{0x7B147E40}
+		f %ShadowFadeOutRange{0}
+		f %SlopeBias{0x0000803E}
+		f %SpecularMultiplier{0x0000803F}
+		u3 %Temperature{6550}
+		b %TransparentShadows{0}
+		b %UseColorTemperature{0}
+	}
+}
+o
+{
 	Uuid %id{u4{7778704172959231445,10575779535509529517}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -3565,6 +3744,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0xF3665F3F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3590,6 +3770,32 @@ o
 		s %GlobalKey{""}
 		Vec3 %LocalPosition{f{0x24B944C1,0xE03021BF,0x4A4AB1C1}}
 		Quat %LocalRotation{f{0x5EF204BF,0x909BCA3E,0xEAD58A3E,0x5A0D353F}}
+		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
+		f %LocalUniformScaling{0x0000803F}
+		s %Mode{"ezObjectMode::Automatic"}
+		s %Name{""}
+		VarArray %Tags
+		{
+			s{"CastShadow"}
+		}
+	}
+}
+o
+{
+	Uuid %id{u4{14815263375961303336,10693024116071665462}}
+	s %t{"ezGameObject"}
+	u3 %v{1}
+	p
+	{
+		b %Active{1}
+		VarArray %Children{}
+		VarArray %Components
+		{
+			Uuid{u4{13297362404935204147,10514600653081282322}}
+		}
+		s %GlobalKey{""}
+		Vec3 %LocalPosition{f{0,0,0}}
+		Quat %LocalRotation{f{0,0,0,0xFDFF7F3F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
 		s %Mode{"ezObjectMode::Automatic"}
@@ -3630,7 +3836,7 @@ o
 {
 	Uuid %id{u4{856293031194060623,10800674684912389504}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3638,8 +3844,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000F041}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3647,6 +3855,32 @@ o
 		u3 %Temperature{2875}
 		b %TransparentShadows{0}
 		b %UseColorTemperature{1}
+	}
+}
+o
+{
+	Uuid %id{u4{8423756177937492520,10883191960701933028}}
+	s %t{"ezGameObject"}
+	u3 %v{1}
+	p
+	{
+		b %Active{1}
+		VarArray %Children{}
+		VarArray %Components
+		{
+			Uuid{u4{14002066198300081469,11241984033063309953}}
+		}
+		s %GlobalKey{""}
+		Vec3 %LocalPosition{f{0x1495C2C0,0x94B8A9C0,0x1B836E40}}
+		Quat %LocalRotation{f{0,0,0,0x0000803F}}
+		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
+		f %LocalUniformScaling{0x0000803F}
+		s %Mode{"ezObjectMode::Automatic"}
+		s %Name{""}
+		VarArray %Tags
+		{
+			s{"CastShadow"}
+		}
 	}
 }
 o
@@ -3755,9 +3989,33 @@ o
 }
 o
 {
+	Uuid %id{u4{14002066198300081469,11241984033063309953}}
+	s %t{"ezSphereReflectionProbeComponent"}
+	u3 %v{2}
+	p
+	{
+		b %Active{1}
+		Vec3 %CaptureOffset{f{0,0,0}}
+		VarArray %ExcludeTags
+		{
+			s{"SkyLight"}
+		}
+		f %Falloff{0xCDCCCC3D}
+		f %FarPlane{0x0000C842}
+		VarArray %IncludeTags{}
+		f %NearPlane{0}
+		f %Radius{0x00000041}
+		s %ReflectionProbeMode{"ezReflectionProbeMode::Static"}
+		b %ShowDebugInfo{0}
+		b %ShowMipMaps{0}
+		b %SphereProjection{1}
+	}
+}
+o
+{
 	Uuid %id{u4{8194102286301367950,11497107439036962586}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3765,8 +4023,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00004842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0x0000803E}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3780,7 +4040,7 @@ o
 {
 	Uuid %id{u4{16630502860004462526,11518738547797865261}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3788,8 +4048,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3853,7 +4115,7 @@ o
 {
 	Uuid %id{u4{283092944783604647,11606832957299474211}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3861,8 +4123,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3876,7 +4140,7 @@ o
 {
 	Uuid %id{u4{16633230679367379879,11707906814200324894}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3884,8 +4148,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00009643}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000C42}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3899,7 +4165,7 @@ o
 {
 	Uuid %id{u4{1046024316754449805,11722958404905726797}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3907,8 +4173,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3922,7 +4190,7 @@ o
 {
 	Uuid %id{u4{6152373374051190443,11780895226648327780}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3930,8 +4198,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3945,7 +4215,7 @@ o
 {
 	Uuid %id{u4{6648994890210920356,11823854122964891937}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -3953,8 +4223,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -3994,7 +4266,7 @@ o
 {
 	Uuid %id{u4{5985337509614583718,11876403859017353964}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4002,8 +4274,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00001643}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000C841}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4017,7 +4291,7 @@ o
 {
 	Uuid %id{u4{8521217972145438641,11883018640385545814}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4025,8 +4299,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4040,7 +4316,7 @@ o
 {
 	Uuid %id{u4{18241961149614153390,11908643093494525794}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4048,8 +4324,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4063,7 +4341,7 @@ o
 {
 	Uuid %id{u4{1180574920792614037,11931368816261970519}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4071,8 +4349,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4086,7 +4366,7 @@ o
 {
 	Uuid %id{u4{8654145462345172411,11998547296223048805}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4094,8 +4374,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00009643}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000C42}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4109,7 +4391,7 @@ o
 {
 	Uuid %id{u4{4787653090316376508,12003316689783307453}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4117,8 +4399,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4142,7 +4426,7 @@ o
 			Uuid{u4{8194102286301367950,11497107439036962586}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0x000539BD,0xEFB16DBE,0x6034FABD}}
+		Vec3 %LocalPosition{f{0x0066FABC,0xEFB16DBE,0xE0F790BD}}
 		Quat %LocalRotation{f{0,0,0,0x0000803F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -4158,7 +4442,7 @@ o
 {
 	Uuid %id{u4{12838495719618910869,12008630140350011549}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4166,8 +4450,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00001643}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000C841}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4207,7 +4493,7 @@ o
 {
 	Uuid %id{u4{17862900050138171039,12052208853497751645}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4215,8 +4501,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4280,7 +4568,7 @@ o
 {
 	Uuid %id{u4{11983914207520693153,12145991737689993172}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4288,8 +4576,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4303,7 +4593,7 @@ o
 {
 	Uuid %id{u4{8887901814578149791,12149593085088350049}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4311,8 +4601,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4326,7 +4618,7 @@ o
 {
 	Uuid %id{u4{2151454357320938682,12196182276356120539}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4334,8 +4626,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4427,7 +4721,7 @@ o
 {
 	Uuid %id{u4{8848775089579826069,12329788798607303574}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4435,8 +4729,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4476,7 +4772,7 @@ o
 {
 	Uuid %id{u4{11855281900021850306,12342574697774453650}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4484,8 +4780,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x00004842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0x8FC2753E}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4627,7 +4925,7 @@ o
 {
 	Uuid %id{u4{7252692433197379264,12487778963260579461}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4635,8 +4933,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4728,7 +5028,7 @@ o
 {
 	Uuid %id{u4{6056210765431857806,12553949944248939502}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4736,8 +5036,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4751,7 +5053,7 @@ o
 {
 	Uuid %id{u4{8371585338439074213,12557390370834796054}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -4759,8 +5061,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4774,7 +5078,7 @@ o
 {
 	Uuid %id{u4{10194024774661439426,12558432019561407596}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -4790,6 +5094,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -4943,7 +5248,7 @@ o
 			Uuid{u4{11855281900021850306,12342574697774453650}}
 		}
 		s %GlobalKey{""}
-		Vec3 %LocalPosition{f{0x00CA7C40,0x2156BE3F,0x805455BD}}
+		Vec3 %LocalPosition{f{0x449D8040,0x2156BE3F,0x00106B3A}}
 		Quat %LocalRotation{f{0,0,0,0x0000803F}}
 		Vec3 %LocalScaling{f{0x0000803F,0x0000803F,0x0000803F}}
 		f %LocalUniformScaling{0x0000803F}
@@ -5063,7 +5368,7 @@ o
 {
 	Uuid %id{u4{18073386234560939217,13231192063959934956}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5079,6 +5384,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5170,7 +5476,7 @@ o
 {
 	Uuid %id{u4{10984007244786561030,14816682179276663896}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5186,6 +5492,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5223,7 +5530,7 @@ o
 {
 	Uuid %id{u4{1590343015305428460,14928374443793321049}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5239,6 +5546,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5252,7 +5560,7 @@ o
 {
 	Uuid %id{u4{2961207793704880285,14971300403529234296}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -5260,8 +5568,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,0,0,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5275,7 +5585,7 @@ o
 {
 	Uuid %id{u4{2532319106707097834,14971678964924525622}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -5283,8 +5593,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5322,7 +5634,7 @@ o
 {
 	Uuid %id{u4{16977662923407242781,15233096936174235520}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5338,6 +5650,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5351,7 +5664,7 @@ o
 {
 	Uuid %id{u4{8152838380947718570,15275464859817390667}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -5359,8 +5672,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{0,255,8,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5374,7 +5689,7 @@ o
 {
 	Uuid %id{u4{13228682952782712215,15292639700119328710}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -5382,8 +5697,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,161,0,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5397,7 +5714,7 @@ o
 {
 	Uuid %id{u4{1474669714563427030,15320609414565499599}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5413,6 +5730,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5426,7 +5744,7 @@ o
 {
 	Uuid %id{u4{1260111728851166347,15339113798637016026}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -5434,8 +5752,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{0,255,8,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5449,7 +5769,7 @@ o
 {
 	Uuid %id{u4{2347439745267240923,15368633691342430960}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5465,6 +5785,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5478,7 +5799,7 @@ o
 {
 	Uuid %id{u4{7887102085663970825,15383170927440695218}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5494,6 +5815,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5507,7 +5829,7 @@ o
 {
 	Uuid %id{u4{13915756663973217945,15395251858489998607}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -5515,8 +5837,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{0,255,8,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5582,7 +5906,7 @@ o
 {
 	Uuid %id{u4{9874435941128155795,15590874824914811956}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -5590,8 +5914,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A040}
+		f %Length{0}
 		ColorGamma %LightColor{u1{0,21,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00000040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5631,7 +5957,7 @@ o
 {
 	Uuid %id{u4{8346727053583024354,15678295633760512368}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5647,6 +5973,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5686,7 +6013,7 @@ o
 {
 	Uuid %id{u4{1725932876853926394,15709345089042221556}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -5702,6 +6029,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -5741,7 +6069,7 @@ o
 {
 	Uuid %id{u4{6480030740219845371,15945695699726716297}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -5749,8 +6077,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000F041}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x0000A040}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -6126,7 +6456,7 @@ o
 {
 	Uuid %id{u4{13464873637128568363,17184716510030708904}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -6134,8 +6464,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000A041}
+		f %Length{0}
 		ColorGamma %LightColor{u1{129,244,76,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0x0000003F}
 		f %Range{0}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -6173,7 +6505,7 @@ o
 {
 	Uuid %id{u4{12385544632466169931,17688479947377059553}}
 	s %t{"ezSpotLightComponent"}
-	u3 %v{4}
+	u3 %v{5}
 	p
 	{
 		b %Active{1}
@@ -6189,6 +6521,7 @@ o
 		Time %MaterialUpdateInterval{d{0}}
 		Angle %OuterSpotAngle{f{0x920A863F}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00002041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -6228,7 +6561,7 @@ o
 {
 	Uuid %id{u4{15248488717126877239,17889888734302887573}}
 	s %t{"ezPointLightComponent"}
-	u3 %v{3}
+	u3 %v{4}
 	p
 	{
 		b %Active{1}
@@ -6236,8 +6569,10 @@ o
 		f %ConstantBias{0xCDCCCC3D}
 		ColorGamma %EffectiveColor{u1{255,255,255,255}}
 		f %Intensity{0x0000C842}
+		f %Length{0}
 		ColorGamma %LightColor{u1{255,255,255,255}}
 		f %PenumbraSize{0xCDCC4C3D}
+		f %Radius{0}
 		f %Range{0x00007041}
 		f %ShadowFadeOutRange{0}
 		f %SlopeBias{0x0000803E}
@@ -6329,7 +6664,7 @@ o
 		VarArray %Attributes{}
 		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
 		VarArray %Functions{}
-		s %ParentTypeName{"ezSettingsComponent"}
+		s %ParentTypeName{"ezComponent"}
 		s %PluginName{"Static"}
 		VarArray %Properties{}
 		s %TypeName{"ezFogComponent"}
@@ -6350,6 +6685,23 @@ o
 		s %PluginName{"Static"}
 		VarArray %Properties{}
 		s %TypeName{"ezComponent"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
+	Uuid %id{u4{15206751466792366313,1123861201670545443}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{""}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezVariantArray"}
 		u3 %TypeVersion{1}
 	}
 }
@@ -6712,6 +7064,23 @@ o
 }
 o
 {
+	Uuid %id{u4{15829715360065729463,8612673207191066077}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{"ezPropertyAttribute"}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezShapeIconAlwaysVisibleAttribute"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
 	Uuid %id{u4{6089094783765586323,8705960867921430659}}
 	s %t{"ezReflectedTypeDescriptor"}
 	u3 %v{1}
@@ -6894,7 +7263,7 @@ o
 		s %PluginName{"Static"}
 		VarArray %Properties{}
 		s %TypeName{"ezPointLightComponent"}
-		u3 %TypeVersion{3}
+		u3 %TypeVersion{4}
 	}
 }
 o
@@ -6984,6 +7353,23 @@ o
 }
 o
 {
+	Uuid %id{u4{5292472142899984827,13813128825879118617}}
+	s %t{"ezReflectedTypeDescriptor"}
+	u3 %v{1}
+	p
+	{
+		VarArray %Attributes{}
+		s %Flags{"ezTypeFlags::Class|ezTypeFlags::Minimal"}
+		VarArray %Functions{}
+		s %ParentTypeName{"ezPropertyAttribute"}
+		s %PluginName{"Static"}
+		VarArray %Properties{}
+		s %TypeName{"ezSyncChildOrderAttribute"}
+		u3 %TypeVersion{1}
+	}
+}
+o
+{
 	Uuid %id{u4{3106992448854867606,14177809816119438754}}
 	s %t{"ezReflectedTypeDescriptor"}
 	u3 %v{1}
@@ -6996,7 +7382,7 @@ o
 		s %PluginName{"Static"}
 		VarArray %Properties{}
 		s %TypeName{"ezSpotLightComponent"}
-		u3 %TypeVersion{4}
+		u3 %TypeVersion{5}
 	}
 }
 o
